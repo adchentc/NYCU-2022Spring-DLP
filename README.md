@@ -7,3 +7,4 @@ This repository is about the assignment from Deep Learning and Practice 2022, NY
 
 ### 1. Warm up: Python + Pytorch
 ### 2. Back Propagation
+### 3. 2048
