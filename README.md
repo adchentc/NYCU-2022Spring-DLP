@@ -10,3 +10,4 @@ This repository is about the assignment from Deep Learning and Practice 2022, NY
 ### 3. 2048 TD
 ### 4-1. EEG Classification
 ### 4-2. Diabetic Retinopathy Detection
+### 5. Conditional VAE For Video Prediction
